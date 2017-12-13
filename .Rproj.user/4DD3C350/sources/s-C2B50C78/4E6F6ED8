@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1513187383012.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1235294571",
+    "id" : "4E6F6ED8",
+    "lastKnownWriteTime" : 1513187509,
+    "last_content_update" : 1513187509178,
+    "path" : "C:/Users/Christabelle/Downloads/Desktop/WEBSITE/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "34,39",
+        "scrollLine" : "12"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
